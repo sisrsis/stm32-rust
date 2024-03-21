@@ -1,8 +1,9 @@
 [package]
-authors = ["sisrsis <virussisrsis@gmail.com>"]
+authors = ["{{authors}}"]
+
 edition = "2018"
 readme = "README.md"
-name = "testss"
+name = "{{project-name}}"
 version = "0.1.0"
 
 [profile.release]
