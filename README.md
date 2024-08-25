@@ -1,4 +1,10 @@
 # STM32-RUST 
+
+## install cargo-generate
+```
+cargo install cargo-generate
+```
+
 ## start project
 ```
 cargo generate --git https://github.com/sisrsis/stm32-rust
